@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -259,38 +260,6 @@ p{
 <div class="flower" style="left:18%; animation-duration:17s;">🌺</div>
 <div class="flower" style="left:20%; animation-duration:15s;">🌷</div>
 
-<div class="flower" style="left:22%; animation-duration:13s;">🌸</div>
-<div class="flower" style="left:24%; animation-duration:18s;">🌺</div>
-<div class="flower" style="left:26%; animation-duration:12s;">🌷</div>
-<div class="flower" style="left:28%; animation-duration:16s;">🌸</div>
-<div class="flower" style="left:30%; animation-duration:20s;">🌺</div>
-<div class="flower" style="left:32%; animation-duration:14s;">🌷</div>
-<div class="flower" style="left:34%; animation-duration:17s;">🌸</div>
-<div class="flower" style="left:36%; animation-duration:13s;">🌺</div>
-<div class="flower" style="left:38%; animation-duration:19s;">🌷</div>
-<div class="flower" style="left:40%; animation-duration:15s;">🌸</div>
-
-<div class="flower" style="left:42%; animation-duration:12s;">🌺</div>
-<div class="flower" style="left:44%; animation-duration:18s;">🌷</div>
-<div class="flower" style="left:46%; animation-duration:16s;">🌸</div>
-<div class="flower" style="left:48%; animation-duration:14s;">🌺</div>
-<div class="flower" style="left:50%; animation-duration:20s;">🌷</div>
-<div class="flower" style="left:52%; animation-duration:13s;">🌸</div>
-<div class="flower" style="left:54%; animation-duration:17s;">🌺</div>
-<div class="flower" style="left:56%; animation-duration:11s;">🌷</div>
-<div class="flower" style="left:58%; animation-duration:15s;">🌸</div>
-<div class="flower" style="left:60%; animation-duration:19s;">🌺</div>
-
-<div class="flower" style="left:62%; animation-duration:14s;">🌷</div>
-<div class="flower" style="left:64%; animation-duration:18s;">🌸</div>
-<div class="flower" style="left:66%; animation-duration:12s;">🌺</div>
-<div class="flower" style="left:68%; animation-duration:16s;">🌷</div>
-<div class="flower" style="left:70%; animation-duration:13s;">🌸</div>
-<div class="flower" style="left:72%; animation-duration:20s;">🌺</div>
-<div class="flower" style="left:76%; animation-duration:15s;">🌷</div>
-<div class="flower" style="left:82%; animation-duration:17s;">🌸</div>
-<div class="flower" style="left:88%; animation-duration:14s;">🌺</div>
-<div class="flower" style="left:94%; animation-duration:19s;">🌷</div>
 
 
 <div class="card">
